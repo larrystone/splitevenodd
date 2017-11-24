@@ -1,4 +1,4 @@
-# splitevenodd
+# splitEvenOdd
 A function that splits an array into arrays of even and odd numbers
 
 # Installation
@@ -7,3 +7,5 @@ A function that splits an array into arrays of even and odd numbers
 
 # Authors
 **Lawal Lanre E. (Larrystone)** - Software Developer
+
+**Obiora Imah (Obi)** - Software Developer
