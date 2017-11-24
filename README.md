@@ -7,4 +7,5 @@ A function that splits an array into arrays of even and odd numbers
 
 # Authors
 **Lawal Lanre E. (Larrystone)** - Software Developer
+
 **Isioye Mohammed** - Software Developer
