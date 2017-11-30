@@ -1,7 +1,7 @@
 export default {
   data0: {
     input: "giberrish",
-    expectedOutput: "input should be an array"
+    expectedOutput: "Input should be an array!"
   },
   data1: {
     input: [],
@@ -31,8 +31,8 @@ export default {
     input: [-5, 6, -6, 5, -2, 1, -3],
     expectedOutput: {
       invalid: [],
-      even: [-5, 5, 1, -3],
-      odd: [6, -6, -2]
+      odd: [-5, 5, 1, -3],
+      even: [6, -6, -2]
     }
   },
   data5: {
@@ -46,7 +46,7 @@ export default {
   data6: {
     input: [2, 4, 1, 'a', true, 0, 5, 6],
     expectedOutput: {
-      invalid: ['a', true],
+      invalid: ['a', true, 0],
       even: [2, 4, 6],
       odd: [1, 5]
     }
